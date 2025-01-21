@@ -21,10 +21,16 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshot Desktop
 
 ![previewDesktop](./public/Preview%20Tech%20Book%20Club%20Landing%20Page%20Desktop.png)
+
+### Screenshot Tablet
+
 ![previewTablet](./public/Preview%20Tech%20Book%20Club%20Landing%20Page%20Tablet.png)
+
+### Screenshot Mobile
+
 ![previewMobile](./public/Preview%20Tech%20Book%20Club%20Landing%20Page%20Mobile.png)
 
 ### Links
