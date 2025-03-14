@@ -36,6 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github.com](https://github.com/oloude)
+  -Live Url : [Tech-Book-Club-Landing-Page](https://tech-book-club-landing-page.netlify.app/)
 
 ### Built with
 
